@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "AgePopDenom"]
+	path = AgePopDenom
+	url = https://github.com/truenomad/agepopdenom
 [submodule "epiCleanr"]
 	path = epiCleanr
 	url = https://github.com/truenomad/epicleanr
