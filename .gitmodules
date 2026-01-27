@@ -5,6 +5,3 @@
 [submodule "AgePopDenom"]
 	path = AgePopDenom
 	url = https://github.com/truenomad/agepopdenom
-[submodule "epiCleanr"]
-	path = epiCleanr
-	url = https://github.com/truenomad/epicleanr
